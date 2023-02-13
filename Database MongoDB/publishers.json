@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "639887e2a93c26257085eec9"
+  },
+  "name": "Kim Đồng",
+  "slug": "kim-dong",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639887f9a93c26257085eecd"
+  },
+  "name": "Hồng Đức",
+  "slug": "hong-duc",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63988800a93c26257085eed1"
+  },
+  "name": "Thế Giới",
+  "slug": "the-gioi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639ea4b716208fd96d728ce6"
+  },
+  "name": "aab",
+  "slug": "aab",
+  "__v": 0
+}]

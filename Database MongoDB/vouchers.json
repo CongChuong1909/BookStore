@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "63a52cb53c61330c421270a5"
+  },
+  "name": "a",
+  "reduce": 0,
+  "qty": 9997,
+  "mile": 0,
+  "slug": "a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5332a83f224bb1cf4c472"
+  },
+  "name": "Giảm 20K cho đơn hàng đạt giá trị 100K",
+  "reduce": 20000,
+  "qty": 9,
+  "mile": 100000,
+  "slug": "giam-20k-cho-don-hang-dat-gia-tri-100k",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5333f83f224bb1cf4c475"
+  },
+  "name": "Giảm 15K cho đơn hàng đạt giá trị 50K",
+  "reduce": 15000,
+  "qty": 9,
+  "mile": 50000,
+  "slug": "giam-15k-cho-don-hang-dat-gia-tri-50k",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5335683f224bb1cf4c478"
+  },
+  "name": "Giảm 10K cho đơn hàng đạt giá trị 30K",
+  "reduce": 10000,
+  "qty": 9,
+  "mile": 30000,
+  "slug": "giam-10k-cho-don-hang-dat-gia-tri-30k",
+  "__v": 0
+}]

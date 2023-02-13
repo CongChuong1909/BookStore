@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "639b42a69885b299bf416028"
+  },
+  "idImport": {
+    "$oid": "639b42a69885b299bf416026"
+  },
+  "idBook": {
+    "$oid": "638f74ef075e5ee910917214"
+  },
+  "amount": 2,
+  "price": 150,
+  "total": 300,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639b42a69885b299bf416029"
+  },
+  "idImport": {
+    "$oid": "639b42a69885b299bf416026"
+  },
+  "idBook": {
+    "$oid": "63922745c0e3a521fef63c2d"
+  },
+  "amount": 4,
+  "price": 100,
+  "total": 400,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a0439ec36af580939ba572"
+  },
+  "idImport": {
+    "$oid": "63a0439ec36af580939ba570"
+  },
+  "idBook": {
+    "$oid": "639aea07a0fd29cc22a3438b"
+  },
+  "amount": 12,
+  "price": 12,
+  "total": 144,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a0439ec36af580939ba573"
+  },
+  "idImport": {
+    "$oid": "63a0439ec36af580939ba570"
+  },
+  "idBook": {
+    "$oid": "639aea2fa0fd29cc22a34395"
+  },
+  "amount": 2,
+  "price": 321,
+  "total": 642,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a04d53c36af580939ba58a"
+  },
+  "idImport": {
+    "$oid": "63a04d53c36af580939ba588"
+  },
+  "idBook": {
+    "$oid": "639aea2fa0fd29cc22a34395"
+  },
+  "amount": 12,
+  "price": 123,
+  "total": 1476,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a04d53c36af580939ba58b"
+  },
+  "idImport": {
+    "$oid": "63a04d53c36af580939ba588"
+  },
+  "idBook": {
+    "$oid": "639aea07a0fd29cc22a3438b"
+  },
+  "amount": 5,
+  "price": 231,
+  "total": 1155,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a04e1ec36af580939ba59f"
+  },
+  "idImport": {
+    "$oid": "63a04e1ec36af580939ba59d"
+  },
+  "idBook": {
+    "$oid": "639a9cd155d03bbac419ef66"
+  },
+  "amount": 2,
+  "price": 150,
+  "total": 300,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a04e1ec36af580939ba5a0"
+  },
+  "idImport": {
+    "$oid": "63a04e1ec36af580939ba59d"
+  },
+  "idBook": {
+    "$oid": "63987b4fa93c26257085ee27"
+  },
+  "amount": 4,
+  "price": 100,
+  "total": 400,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a0566b7abb0ba0173507c8"
+  },
+  "idImport": {
+    "$oid": "63a0566b7abb0ba0173507c6"
+  },
+  "idBook": {
+    "$oid": "639aea07a0fd29cc22a3438b"
+  },
+  "amount": 2,
+  "price": 150,
+  "total": 300,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a0566b7abb0ba0173507c9"
+  },
+  "idImport": {
+    "$oid": "63a0566b7abb0ba0173507c6"
+  },
+  "idBook": {
+    "$oid": "639aea2fa0fd29cc22a34395"
+  },
+  "amount": 4,
+  "price": 100,
+  "total": 400,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a080e97abb0ba017350951"
+  },
+  "idImport": {
+    "$oid": "63a080e97abb0ba01735094f"
+  },
+  "idBook": {
+    "$oid": "639aea07a0fd29cc22a3438b"
+  },
+  "amount": 12,
+  "price": 122,
+  "total": 1464,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a080e97abb0ba017350952"
+  },
+  "idImport": {
+    "$oid": "63a080e97abb0ba01735094f"
+  },
+  "idBook": {
+    "$oid": "639c6cdf4a9646bb97a203c5"
+  },
+  "amount": 12,
+  "price": 1223,
+  "total": 14676,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a080e97abb0ba017350953"
+  },
+  "idImport": {
+    "$oid": "63a080e97abb0ba01735094f"
+  },
+  "idBook": {
+    "$oid": "639aea2fa0fd29cc22a34395"
+  },
+  "amount": 12,
+  "price": 1223,
+  "total": 14676,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a080ff7abb0ba01735095f"
+  },
+  "idImport": {
+    "$oid": "63a080ff7abb0ba01735095d"
+  },
+  "idBook": {
+    "$oid": "639aea07a0fd29cc22a3438b"
+  },
+  "amount": 12,
+  "price": 122,
+  "total": 1464,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a080ff7abb0ba017350960"
+  },
+  "idImport": {
+    "$oid": "63a080ff7abb0ba01735095d"
+  },
+  "idBook": {
+    "$oid": "639c6cdf4a9646bb97a203c5"
+  },
+  "amount": 12,
+  "price": 1223,
+  "total": 14676,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a080ff7abb0ba017350961"
+  },
+  "idImport": {
+    "$oid": "63a080ff7abb0ba01735095d"
+  },
+  "idBook": {
+    "$oid": "639aea2fa0fd29cc22a34395"
+  },
+  "amount": 12,
+  "price": 1223,
+  "total": 14676,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a11c2302819c8c71b2549c"
+  },
+  "idImport": {
+    "$oid": "63a11c2302819c8c71b2549a"
+  },
+  "idBook": {
+    "$oid": "639aea07a0fd29cc22a3438b"
+  },
+  "amount": 2,
+  "price": 12000,
+  "total": 24000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a11c2302819c8c71b2549d"
+  },
+  "idImport": {
+    "$oid": "63a11c2302819c8c71b2549a"
+  },
+  "idBook": {
+    "$oid": "63a084c57abb0ba0173509b3"
+  },
+  "amount": 2,
+  "price": 12000,
+  "total": 24000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a1c507f130cda5df07df32"
+  },
+  "idImport": {
+    "$oid": "63a1c507f130cda5df07df2f"
+  },
+  "idBook": {
+    "$oid": "639aea07a0fd29cc22a3438b"
+  },
+  "amount": 1,
+  "price": 12,
+  "total": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a1c507f130cda5df07df31"
+  },
+  "idImport": {
+    "$oid": "63a1c507f130cda5df07df2f"
+  },
+  "idBook": {
+    "$oid": "63a082827abb0ba017350984"
+  },
+  "amount": 12,
+  "price": 123,
+  "total": 1476,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5d342c3ef0041f7a4aee5"
+  },
+  "idImport": {
+    "$oid": "63a5d342c3ef0041f7a4aee3"
+  },
+  "idBook": {
+    "$oid": "639aea07a0fd29cc22a3438b"
+  },
+  "amount": 12,
+  "price": 12000,
+  "total": 144000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6655a144fb632e5419110"
+  },
+  "idImport": {
+    "$oid": "63a6655a144fb632e541910e"
+  },
+  "idBook": {
+    "$oid": "63a082827abb0ba017350984"
+  },
+  "amount": 12,
+  "price": 12000,
+  "total": 144000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6655a144fb632e5419111"
+  },
+  "idImport": {
+    "$oid": "63a6655a144fb632e541910e"
+  },
+  "idBook": {
+    "$oid": "639aea2fa0fd29cc22a34395"
+  },
+  "amount": 12,
+  "price": 13000,
+  "total": 156000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a68aea8aa84da893cbdb97"
+  },
+  "idImport": {
+    "$oid": "63a68aea8aa84da893cbdb95"
+  },
+  "idBook": {
+    "$oid": "63a082827abb0ba017350984"
+  },
+  "amount": 12,
+  "price": 12000,
+  "total": 144000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a68aea8aa84da893cbdb98"
+  },
+  "idImport": {
+    "$oid": "63a68aea8aa84da893cbdb95"
+  },
+  "idBook": {
+    "$oid": "63a084c57abb0ba0173509b3"
+  },
+  "amount": 12,
+  "price": 12000,
+  "total": 144000,
+  "__v": 0
+}]

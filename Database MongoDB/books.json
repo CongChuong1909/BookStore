@@ -1,0 +1,423 @@
+[{
+  "_id": {
+    "$oid": "639a9cd155d03bbac419ef66"
+  },
+  "name": "Hà Nội 36 phố phường",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671077067/chuong/vjmsll3c9i2lmbklkzqz.jpg",
+  "price": 50000,
+  "description": "Hà Nội 36 phố phường",
+  "idAuthor": {
+    "$oid": "63987b4fa93c26257085ee27"
+  },
+  "idType": {
+    "$oid": "639887b7a93c26257085eeb6"
+  },
+  "idPublisher": {
+    "$oid": "639887e2a93c26257085eec9"
+  },
+  "qty": -1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671077073047"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671810481112"
+    }
+  },
+  "slug": "ha-noi-36-pho-phuong",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639aea07a0fd29cc22a3438b"
+  },
+  "name": "vợ nhặt",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671096835/chuong/wemynt6ljlx8521e6y6a.jpg",
+  "price": 40000,
+  "description": "Vợ nhặt",
+  "idAuthor": {
+    "$oid": "639886dda93c26257085ee91"
+  },
+  "idType": {
+    "$oid": "639887b7a93c26257085eeb6"
+  },
+  "idPublisher": {
+    "$oid": "639887f9a93c26257085eecd"
+  },
+  "qty": {
+    "$numberLong": "12712121008"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671096839758"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671859072516"
+    }
+  },
+  "slug": "vo-nhat",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639aea2fa0fd29cc22a34395"
+  },
+  "name": "Tuyển tập nam cao",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671772849/chuong/agnbnnqfrmf6eotxygbk.jpg",
+  "price": 34000,
+  "description": "Tuyển tập nam cao",
+  "idAuthor": {
+    "$oid": "6398870fa93c26257085ee96"
+  },
+  "idType": {
+    "$oid": "639887b7a93c26257085eeb6"
+  },
+  "idPublisher": {
+    "$oid": "639887f9a93c26257085eecd"
+  },
+  "qty": 216120211,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671096879464"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671863463310"
+    }
+  },
+  "slug": "tuyen-tap-nam-cao",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639c6cdf4a9646bb97a203c5"
+  },
+  "name": "asas",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671195864/chuong/rxv25xnydfymg6ubmawk.jpg",
+  "price": 23000,
+  "description": "Hà Nội 36 phố phường",
+  "idAuthor": {
+    "$oid": "6398870fa93c26257085ee96"
+  },
+  "idType": {
+    "$oid": "639887b7a93c26257085eeb6"
+  },
+  "idPublisher": {
+    "$oid": "639887e2a93c26257085eec9"
+  },
+  "qty": 1207,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671195871500"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671849525173"
+    }
+  },
+  "slug": "asas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639c6f9a4a9646bb97a38c42"
+  },
+  "name": "aadasc",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671196560/chuong/itqiswy2qkknjegcpqh8.jpg",
+  "price": 12312,
+  "description": "aaccs",
+  "idAuthor": {
+    "$oid": "639886dda93c26257085ee91"
+  },
+  "idType": {
+    "$oid": "639887c0a93c26257085eeba"
+  },
+  "idPublisher": {
+    "$oid": "639887f9a93c26257085eecd"
+  },
+  "qty": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671196570167"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671196570167"
+    }
+  },
+  "slug": "aadasc",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a082827abb0ba017350984"
+  },
+  "name": "Số Đỏ",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671463540/chuong/seq2qetedwzp2w1ddv2f.jpg",
+  "price": 12000,
+  "description": "Số đỏ",
+  "idAuthor": {
+    "$oid": "639887a4a93c26257085eea5"
+  },
+  "idType": {
+    "$oid": "639887b7a93c26257085eeb6"
+  },
+  "idPublisher": {
+    "$oid": "639887f9a93c26257085eecd"
+  },
+  "qty": 101212,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671463554307"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671858922617"
+    }
+  },
+  "slug": "so-do",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a083e97abb0ba0173509a8"
+  },
+  "name": "a",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671463904/chuong/qdqconpienhigwbe85iz.jpg",
+  "price": 123,
+  "description": "a",
+  "idAuthor": {
+    "$oid": "6398873fa93c26257085ee9b"
+  },
+  "idType": {
+    "$oid": "639887b7a93c26257085eeb6"
+  },
+  "idPublisher": {
+    "$oid": "639887f9a93c26257085eecd"
+  },
+  "qty": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671463913681"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671463913681"
+    }
+  },
+  "slug": "a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a084c57abb0ba0173509b3"
+  },
+  "name": "Thơ và đời",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671464106/chuong/eoxxjw3qgtn167wq7xb4.jpg",
+  "price": 123,
+  "description": "aaaaa",
+  "idAuthor": {
+    "$oid": "639886dda93c26257085ee91"
+  },
+  "idType": {
+    "$oid": "639887b7a93c26257085eeb6"
+  },
+  "idPublisher": {
+    "$oid": "639887f9a93c26257085eecd"
+  },
+  "qty": 212,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671464133591"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671858922622"
+    }
+  },
+  "slug": "tho-va-doi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a085f77abb0ba0173509be"
+  },
+  "name": "12121",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671464436/chuong/ukluzatrbj6rdjguedmy.jpg",
+  "price": 12221,
+  "description": "12212",
+  "idAuthor": {
+    "$oid": "6398870fa93c26257085ee96"
+  },
+  "idType": {
+    "$oid": "639887c0a93c26257085eeba"
+  },
+  "idPublisher": {
+    "$oid": "639887e2a93c26257085eec9"
+  },
+  "qty": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671464439669"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671464439669"
+    }
+  },
+  "slug": "12121",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a08f227abb0ba0173509ec"
+  },
+  "name": "fassas",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671466778/chuong/ncxttyvtrsnvnyisi2le.jpg",
+  "price": 123,
+  "description": "ádasdasd",
+  "idAuthor": {
+    "$oid": "6398873fa93c26257085ee9b"
+  },
+  "idType": {
+    "$oid": "639887c0a93c26257085eeba"
+  },
+  "idPublisher": {
+    "$oid": "639887f9a93c26257085eecd"
+  },
+  "qty": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671466786376"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671466786376"
+    }
+  },
+  "slug": "fassas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a0917f7abb0ba0173509fb"
+  },
+  "name": "Tuyển tập chế lan viên",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671467356/chuong/x5d67zfol4qzrcwkixcd.jpg",
+  "price": 12000,
+  "description": "Tuyển tập chế lan viên",
+  "idAuthor": {
+    "$oid": "63988774a93c26257085eea0"
+  },
+  "idType": {
+    "$oid": "639887b7a93c26257085eeb6"
+  },
+  "idPublisher": {
+    "$oid": "639887f9a93c26257085eecd"
+  },
+  "qty": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671467391283"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671467391283"
+    }
+  },
+  "slug": "tuyen-tap-che-lan-vien",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a11b5402819c8c71b25471"
+  },
+  "name": "Vũ bão",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671502662/chuong/bfhvpk1miyt45uhv6iys.jpg",
+  "price": 12000,
+  "description": "Vũ bão",
+  "idAuthor": {
+    "$oid": "639886dda93c26257085ee91"
+  },
+  "idType": {
+    "$oid": "639887b7a93c26257085eeb6"
+  },
+  "idPublisher": {
+    "$oid": "639887f9a93c26257085eecd"
+  },
+  "qty": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671502676854"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671502676854"
+    }
+  },
+  "slug": "vu-bao",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a167d50a2ae3d2e4849cb9"
+  },
+  "name": "tham tu lung danh",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671522229/chuong/dofr48qmqpmarzkjxfpk.jpg",
+  "price": 12340,
+  "description": "tham tu lung danh",
+  "idAuthor": {
+    "$oid": "639df2f7978bd3256e53d837"
+  },
+  "idType": {
+    "$oid": "639887caa93c26257085eebe"
+  },
+  "idPublisher": {
+    "$oid": "639887f9a93c26257085eecd"
+  },
+  "qty": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671522261115"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671522261115"
+    }
+  },
+  "slug": "tham-tu-lung-danh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a168010a2ae3d2e4849cbc"
+  },
+  "name": "người gác đêm",
+  "image": "https://res.cloudinary.com/dp7dspftn/image/upload/v1671522276/chuong/z2vzuysg2kzvghc7pzrr.jpg",
+  "price": 12900,
+  "description": "người gác đêm",
+  "idAuthor": {
+    "$oid": "639df26b978bd3256e53d82d"
+  },
+  "idType": {
+    "$oid": "639887caa93c26257085eebe"
+  },
+  "idPublisher": {
+    "$oid": "639887e2a93c26257085eec9"
+  },
+  "qty": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671522305039"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671522305039"
+    }
+  },
+  "slug": "nguoi-gac-dem",
+  "__v": 0
+}]

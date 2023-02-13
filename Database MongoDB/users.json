@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "639d47d478065091e7eb2ffe"
+  },
+  "name": "luong cong chuong",
+  "email": "a@a.com",
+  "username": "chuong",
+  "password": "123",
+  "role": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a171800a2ae3d2e4849dc5"
+  },
+  "name": "Tran Van A",
+  "email": "A@a.com",
+  "username": "vanA",
+  "password": "0123",
+  "role": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a2b8c260bc3be0f43ccb8e"
+  },
+  "name": "Chuong",
+  "email": "Chuong@chuong.com",
+  "username": "Chuong2",
+  "password": "123",
+  "role": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5c66d61f31df5da02c311"
+  },
+  "name": "Nguyen Van B",
+  "email": "B@gmail.com",
+  "username": "vanB",
+  "password": "123",
+  "role": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5d447c3ef0041f7a4af03"
+  },
+  "name": "aaaaa",
+  "email": "aaaa@a.com",
+  "username": "aaaa",
+  "password": "aaaa",
+  "role": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a69c8abcbe9c29d3a5189f"
+  },
+  "name": "Chuong",
+  "email": "congchuong@gmail.com",
+  "username": "Chuong123",
+  "password": "123",
+  "role": 1,
+  "__v": 0
+}]

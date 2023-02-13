@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "639887b7a93c26257085eeb6"
+  },
+  "name": "Văn Học",
+  "slug": "van-hoc",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639887c0a93c26257085eeba"
+  },
+  "name": "Tiểu thuyết",
+  "slug": "tieu-thuyet",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639887caa93c26257085eebe"
+  },
+  "name": "Trinh thámm",
+  "slug": "trinh-thamm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "639ea2c416208fd96d728cd7"
+  },
+  "name": "a",
+  "slug": "a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6a713bcbe9c29d3a51939"
+  },
+  "name": "ab",
+  "slug": "ab",
+  "__v": 0
+}]
